@@ -1,13 +1,13 @@
 {
-  "name": "nextjs-mongodb-app",
+  "name": "nextjs-mongodb",
   "version": 2,
   "build": {
     "env": {
-      "MONGODB_URI": "mongodb+srv://testuser:dontreusethis@cluster0-gc0a7.mongodb.net/nextjsmongodbapp?retryWrites=true&w=majority",
+      "MONGODB_URI": "mongodb://sufian-db:5h25bsziUp3YI9hzT6LoiX9qw1RwptllEuTKjn3ItgbvvJi97y59nmSxNrRm3GNamPLuTCdZ4Djt7ruufa1BtA==@sufian-db.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@sufian-db@",
       "CLOUDINARY_URL": "cloudinary://741947492169653:vkyuRmZ3EbSULnkfXJdtSqwhURw@dbplcha6k",
-      "DB_NAME": "nextjsmongodbapp",
+      "DB_NAME": "blog",
       "SENDGRID_API_KEY": "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",
-      "EMAIL_FROM": "hello@nextjs-mongodb.now.sh",
+      "EMAIL_FROM": "myphpmaster@gmail.com",
       "WEB_URI": "https://nextjs-mongodb.now.sh",
       "SESSION_SECRET": "keyboard cat",
       "USING_SECRETS": "Consider using Zeit Now Secrets instead."
